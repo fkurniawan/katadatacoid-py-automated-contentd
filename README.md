@@ -1,0 +1,1 @@
+# katadatacoid-py-automated-contentd
